@@ -1,18 +1,11 @@
 ## Olá Dev, Prazer sou  a Julia deselvolvedora full stack !
 
-<div className "IMG">
+<div aling = "center">
   
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=JuliaSilva75&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align= "center" height="240px" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaSilva75&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img align= "right" height="240px" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaSilva75&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
-<Sytles>
-  .IMG{
-    display:flex;
-    flex-direction: row;
-  }
-</Sytles>
-
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
